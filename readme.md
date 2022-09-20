@@ -1,6 +1,5 @@
 
-
-![Screenshot 2022-09-20 at 22 53 15](https://user-images.githubusercontent.com/72974932/191362374-0993d3c8-6eb8-4930-b612-aaaeb48a0bca.png)
+![Screenshot 2022-09-20 at 22 54 39](https://user-images.githubusercontent.com/72974932/191362825-ea9e3f73-18e7-43e1-97ea-670a5ad31f79.png)
 
 
 # Planet X 
