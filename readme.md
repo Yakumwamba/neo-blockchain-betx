@@ -1,6 +1,9 @@
-# Planet X 
-![right_image](https://user-images.githubusercontent.com/72974932/167316904-0aea7d8a-fd4a-4985-b008-2ed32ae740f2.png)
 
+
+![Screenshot 2022-09-20 at 22 53 15](https://user-images.githubusercontent.com/72974932/191362374-0993d3c8-6eb8-4930-b612-aaaeb48a0bca.png)
+
+
+# Planet X 
 
 ## Getting Started
 
